@@ -1,5 +1,10 @@
 # Histórico de Versões
 
+## [v1.0.20+21] - 18/07/2026
+
+### Correções
+- Implementação de testes de validação do Git Actions, Gitflow e compilação do projeto.
+
 Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 ## [v1.0.5+6] - 30/12/2025

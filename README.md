@@ -1,5 +1,9 @@
 # IBCT Eventos
 
+[![PR Validation](https://github.com/Jhefferson15/IBCT-Eventos/actions/workflows/ci-pr-validation.yml/badge.svg)](https://github.com/Jhefferson15/IBCT-Eventos/actions/workflows/ci-pr-validation.yml)
+[![Develop Integrity Check](https://github.com/Jhefferson15/IBCT-Eventos/actions/workflows/ci-develop-push.yml/badge.svg)](https://github.com/Jhefferson15/IBCT-Eventos/actions/workflows/ci-develop-push.yml)
+[![Production Release](https://github.com/Jhefferson15/IBCT-Eventos/actions/workflows/sync-and-release.yml/badge.svg)](https://github.com/Jhefferson15/IBCT-Eventos/actions/workflows/sync-and-release.yml)
+
 Aplicativo de gerenciamento de eventos desenvolvido para a Igreja Batista Central de Taguatinga (IBCT). O sistema oferece uma solução completa para controle de participantes, vendas em pontos de venda (PDV), check-in via QR Code e análise de dados.
 
 ## Trailer e Demonstração
